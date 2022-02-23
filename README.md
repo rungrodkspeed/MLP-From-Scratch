@@ -101,8 +101,8 @@ Cross Validation หรือ การทดสอบแบบไขว้ เ�
 ต่อไปก็เป็นผลลัพธ์ที่แสดงถึง confusion matrix ดังนี้
 <p align="center">
   <img src="/blob/fold_1.png" width = 500/> <img src="/blob/fold_2.png" width = 500/>
-  <img src="/blob/fold_3.png"/> <img src="/blob/fold_4.png"/> 
-  <img src="/blob/fold_5.png"/> <img src="/blob/fold_6.png"/> 
-  <img src="/blob/fold_7.png"/> <img src="/blob/fold_8.png"/> 
-  <img src="/blob/fold_9.png"/> <img src="/blob/fold_10.png"/> 
+  <img src="/blob/fold_3.png" width = 500/> <img src="/blob/fold_4.png" width = 500/>
+  <img src="/blob/fold_5.png" width = 500/> <img src="/blob/fold_6.png" width = 500/>
+  <img src="/blob/fold_7.png" width = 500/> <img src="/blob/fold_8.png" width = 500/>
+  <img src="/blob/fold_9.png" width = 500/> <img src="/blob/fold_10.png" width = 500/>
 </p>
