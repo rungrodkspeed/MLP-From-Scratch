@@ -100,11 +100,11 @@ Cross Validation หรือ การทดสอบแบบไขว้ เ�
 
 ต่อไปก็เป็นผลลัพธ์ที่แสดงถึง confusion matrix ดังนี้
 <p align="center">
-  <img src="/blob/fold_1.png" width = 500/> <img src="/blob/fold_2.png" width = 500/>
-  <img src="/blob/fold_3.png" width = 500/> <img src="/blob/fold_4.png" width = 500/>
-  <img src="/blob/fold_5.png" width = 500/> <img src="/blob/fold_6.png" width = 500/>
-  <img src="/blob/fold_7.png" width = 500/> <img src="/blob/fold_8.png" width = 500/>
-  <img src="/blob/fold_9.png" width = 500/> <img src="/blob/fold_10.png" width = 500/>
+  <img src="/blob/fold_1.png" width = 400/> <img src="/blob/fold_2.png" width = 400/>
+  <img src="/blob/fold_3.png" width = 400/> <img src="/blob/fold_4.png" width = 400/>
+  <img src="/blob/fold_5.png" width = 400/> <img src="/blob/fold_6.png" width = 400/>
+  <img src="/blob/fold_7.png" width = 400/> <img src="/blob/fold_8.png" width = 400/>
+  <img src="/blob/fold_9.png" width = 400/> <img src="/blob/fold_10.png" width = 400/>
 </p>
 
 จากผลลัพธ์ทั้งหมดจะเห็นว่า fold-8 นั้นผลลัพธ์แย่ที่สุดและ fold-10 นั้นเป็น model ที่ดีที่สุดภายใต้การทดสอบแบบไขว้
