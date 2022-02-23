@@ -99,4 +99,10 @@ Cross Validation หรือ การทดสอบแบบไขว้ เ�
 
 
 ต่อไปก็เป็นผลลัพธ์ที่แสดงถึง confusion matrix ดังนี้
-![alt-text-1](fold_1.png "title-1") ![alt-text-2](fold_2.png "title-2")
+<p align="center">
+  <img src="/blob/fold_1.png"/> <img src="/blob/fold_2.png"/>
+  <img src="/blob/fold_3.png"/> <img src="/blob/fold_4.png"/> 
+  <img src="/blob/fold_5.png"/> <img src="/blob/fold_6.png"/> 
+  <img src="/blob/fold_7.png"/> <img src="/blob/fold_8.png"/> 
+  <img src="/blob/fold_9.png"/> <img src="/blob/fold_10.png"/> 
+</p>
